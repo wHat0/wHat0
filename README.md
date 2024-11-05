@@ -5,6 +5,8 @@ I'm passionate about building and deploying efficient and scalable solutions usi
 
 **Software Development:**
 
+- **React Native:**:  I enjoy React Native's component-based architecture and the efficiency it brings in building cross-platform mobile apps with a native look and feel. Its fast refresh and rich ecosystem allow me to deliver dynamic, high-performance applications that enhance user engagement and responsiveness.
+- **Ionic:**:  I value Ionic’s flexibility and extensive UI component library, which streamline the development of visually appealing, responsive applications across platforms. Its ability to integrate with web technologies like Angular and React enables me to build feature-rich apps quickly while ensuring a consistent user experience.
 - **React:**: I enjoy the component-based architecture and rich ecosystem that React offers, enabling me to build dynamic and interactive user interfaces efficiently. Its virtual DOM boosts performance, making the UI feel responsive and fast.
 - **Next.js:**: The server-side rendering and static site generation capabilities of Next.js help improve SEO and performance significantly. I appreciate its built-in features like API routes and automatic code-splitting, which make building full-stack applications seamless.
 - **Node js:**: I love how asynchronous, event-driven programming in Node.js enables me to build scalable and high-performance backend services. Its single-threaded nature and rich package ecosystem (NPM) make it perfect for developing real-time applications like chat apps and live updates.
