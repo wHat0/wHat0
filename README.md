@@ -1,4 +1,4 @@
-**Hi, I'm @Shafi Habibi!**
+**Hi, I'm @Muhammad Ibrahim!**
 
 I'm passionate about building and deploying efficient and scalable solutions using my combined expertise in software development and DevOps practices. My journey has been filled with exploration, and I'm especially passionate about:
 
